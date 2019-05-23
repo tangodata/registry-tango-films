@@ -1,0 +1,20 @@
+---
+title:
+alttitle:
+release:
+country:
+length:
+language:
+director:
+stars:
+note:
+trailer:
+full:
+imdb:
+discuss:
+tags:
+tangoness:
+pix:
+  -
+---
+

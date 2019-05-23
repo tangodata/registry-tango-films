@@ -3,8 +3,10 @@
 a list of tango inspired films
 
 sources:
-- NYC Tango Film Festivals
-- Cinefilia Tanguera
-- Tango Short Film Festival
+- USA Tango Film Festival
+- Toronto Film Festival
+- Cinefilia Tanguera (https://cinefiliatanguera.com)
+- Filmonguero (http://filmonguero.com/)
 - IMDB
 - Vimeo
+- Youtube
